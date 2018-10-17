@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExampleListActivity</string>
+    <string name="activate_name">Главная</string>
+    <string name="activate_name1">Активность №1</string>
+</resources>
